@@ -7,7 +7,7 @@ function showMessage() {
     alert('Всем привет!');
 }
 
-showMessage();
+showMessage(); /// ewrfwefwef
 showMessage();
 
 for (let i = 0; i < 5; i++) {
