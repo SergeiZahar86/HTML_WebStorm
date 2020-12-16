@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35f44da1-5ed5-4a69-ba22-8b55fa6375a1" name="Default Changelist" comment="1">
-      <change afterPath="$PROJECT_DIR$/JS/Hello.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/New1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/styles1.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/Hello.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/Hello.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,18 +34,35 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/html/New1.html" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/JS/Hello.js" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager">
-    <configuration name="New1.html" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/HTML_WebStorm/html/New1.html" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="JavaScript Debug.New1.html">
+    <configuration name="New1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML_WebStorm/html/New1.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" uri="http://localhost:63342/HTML_WebStorm/html/New1.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/HTML_WebStorm/html/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="Hello.js" type="NodeJSConfigurationType" temporary="true" path-to-node="$PROJECT_DIR$/JS/Hello.js" nameIsGenerated="true" path-to-js-file="Hello.js" working-dir="$PROJECT_DIR$/JS">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.index.html" />
+      <item itemvalue="JavaScript Debug.New1.html" />
+      <item itemvalue="Node.js.Hello.js" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.New1.html" />
+        <item itemvalue="Node.js.Hello.js" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -60,7 +75,9 @@
       <workItem from="1607330073234" duration="3937000" />
       <workItem from="1607393116240" duration="1833000" />
       <workItem from="1607569658243" duration="7857000" />
-      <workItem from="1607913692216" duration="4976000" />
+      <workItem from="1607913692216" duration="5004000" />
+      <workItem from="1608022838392" duration="4052000" />
+      <workItem from="1608090239573" duration="2157000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1607393164911</created>
@@ -76,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607482796144</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="1">
+      <created>1607940095112</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1607940095112</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
